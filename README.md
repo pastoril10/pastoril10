@@ -1,4 +1,5 @@
-### Olá!!! Eu sou o Julio Cesar ✋👊
+### Olá, eu sou o Julio Pastoril ✋👊
+### Seja bem vindo(a) ao meu github!!!
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com/channel/UCrPEMNKAWJke0jheNToGDNA)
@@ -19,3 +20,5 @@
   <img align="center" alt="powerbi" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img align="center" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
    <img align="center" alt="sql" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+## *"fazei tudo o que Ele vos disser" Jo 2:5* 🙏🙏🙏
