@@ -1,4 +1,4 @@
-### Olá, eu sou o Julio Pastoril ✋👊
+## Olá! Eu sou o Julio Pastoril ✋👊
 ### Seja bem vindo(a) ao meu github!!!
 
 
